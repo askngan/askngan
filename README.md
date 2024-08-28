@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps, Python , K8s , Cloud native and DataMesh
 - 🌱 I’m currently learning Go and Python
 - 💞️ I’m looking to collaborate on Data Science and ML.
-- 📫 How to reach me via NT Psychic (You Know That !)
+
 
 <!---
 askngan/askngan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
